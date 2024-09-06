@@ -1,5 +1,5 @@
 """
-This script builds a ReAct agent that utilizes tools to determine the current time.
+This script builds a ReAct agent that utilizes tools to determine the current time with LangChain and OpenAI
 """
 
 from dotenv import load_dotenv
